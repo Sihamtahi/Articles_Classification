@@ -1,12 +1,20 @@
 # Articles_Classification
 
-#Représentation de données :  Glove, word2vec, BERT et Roberta
+#Représentation de données : 
 
-# Algorithme de réduction :  ACP, TSNE, UMAP et AutoEncoders
+Glove, word2vec, BERT et Roberta
 
-#Algorithme de classification : K-means, CAH, HDBSCAN et Spectral Clustering.
+##Algorithme de réduction :
 
-#Algorithme de réduction et classification : Reduced K-means (RKM), Factorial K-means (FKM), Deep Clustering Network (DCN) et Deep K-means (DKM). 
+ACP, TSNE, UMAP et AutoEncoders
+
+##Algorithme de classification :
+
+K-means, CAH, HDBSCAN et Spectral Clustering.
+
+##Algorithme de réduction et classification :
+
+Reduced K-means (RKM), Factorial K-means (FKM), Deep Clustering Network (DCN) et Deep K-means (DKM). 
 
 
 
